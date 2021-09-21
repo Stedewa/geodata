@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Vaud",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [46.6167,6.5500]
+            },
+            "properties": {
+                "en": "Vaud",
+                "fr": "Vaud"
+            }
+        },
+
+         {
+            "id": "Fribourg",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [46.6167,6.5500]
+            },
+            "properties": {
+                "en": "Fribourg",
+                "fr": "Fribourg"
+            }
+        }
+  
+
+
+    ]
+}
