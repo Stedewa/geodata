@@ -64,6 +64,33 @@
                 "en": "Neuchâtel",
                 "fr": "Neuchâtel"
             }
+        },
+
+         {
+            "id": "Jura",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.1995, 47.3274]
+            },
+            "properties": {
+                "en": "Jura",
+                "fr": "Jura"
+            }
+        },
+        
+         {
+            "id": "Bern",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.6575, 46.8386]
+            },
+            "properties": {
+                "en": "Bern",
+                "de": "Berne",
+                "fr": "Berne"
+            }
         }
   
 
