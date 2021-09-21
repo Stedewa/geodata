@@ -32,11 +32,37 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [6.1469, 46.2017]
+                "coordinates": [6.1331, 46.2467]
             },
             "properties": {
                 "en": "Geneva",
                 "fr": "Canton de Genève"
+            }
+        },
+
+         {
+            "id": "Valais",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.6246, 46.2576]
+            },
+            "properties": {
+                "en": "Valais",
+                "fr": "Valais"
+            }
+        },
+
+         {
+            "id": "Neuchatel",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.7602, 47.0063]
+            },
+            "properties": {
+                "en": "Neuchâtel",
+                "fr": "Neuchâtel"
             }
         }
   
