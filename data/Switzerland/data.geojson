@@ -6,7 +6,7 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [46.6167,6.5500]
+                "coordinates": [6.5500, 46.6167]
             },
             "properties": {
                 "en": "Vaud",
@@ -19,7 +19,7 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [46.6167,6.5500]
+                "coordinates": [7.0834, 46.7182]
             },
             "properties": {
                 "en": "Fribourg",
