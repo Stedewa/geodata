@@ -25,6 +25,19 @@
                 "en": "Fribourg",
                 "fr": "Fribourg"
             }
+        },
+
+         {
+            "id": "Geneva",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.1469, 46.2017]
+            },
+            "properties": {
+                "en": "Geneva",
+                "fr": "Canton de Genève"
+            }
         }
   
 
