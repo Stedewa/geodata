@@ -91,6 +91,62 @@
                 "de": "Berne",
                 "fr": "Berne"
             }
+        },
+        
+         {
+            "id": "Aargau",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.0843, 47.3799]
+            },
+            "properties": {
+                "en": "Aargau",
+                "de": "Aargau",
+                "fr": "Argovie"
+            }
+        },
+        
+         {
+            "id": "Appenzell Ausserrhoden",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.4110, 47.3582]
+            },
+            "properties": {
+                "en": "Appenzell Ausserrhoden",
+                "de": "Appenzell Ausserrhoden",
+                "fr": "Appenzell Rhodes-Extérieures"
+            }
+        },
+        
+         {
+            "id": "Appenzell Innerrhoden",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.4641, 47.3389]
+            },
+            "properties": {
+                "en": "Appenzell Inner-Rhodes",
+                "de": "Appenzell Innerrhoden",
+                "fr": "Appenzell Rhodes-Intérieures"
+            }
+        },
+        
+         {
+            "id": "Basel-Landschaft",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.6436, 47.4512]
+            },
+            "properties": {
+                "en": "Basle-Country",
+                "de": "Basel-Landschaft",
+                "fr": "Bâle-Campagne"
+            }
         }
   
 
