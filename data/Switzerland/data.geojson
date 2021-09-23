@@ -1,22 +1,6 @@
 {
     "type": "FeatureCollection",
     "features": [
-        
-         {
-            "id": "Bern",
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [7.6575, 46.8386]
-            },
-            "properties": {
-                "en": "Bern",
-                "de": "Berne",
-                "fr": "Berne",
-                "it": "Neuchâtel"
-            }
-        },
-        
          {
             "id": "Aargau",
             "type": "Feature",
@@ -93,6 +77,21 @@
         },
         
         {
+            "id": "Bern",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.6575, 46.8386]
+            },
+            "properties": {
+                "en": "Bern",
+                "de": "Berne",
+                "fr": "Berne",
+                "it": "Neuchâtel"
+            }
+        },        
+        
+        {
             "id": "Fribourg",
             "type": "Feature",
             "geometry": {
@@ -116,7 +115,7 @@
             },
             "properties": {
                 "en": "Geneva",
-                "fr": "Canton de Genève",
+                "fr": "Genève",
                 "de": "Genf",
                 "it": "Ginevra"
             }
