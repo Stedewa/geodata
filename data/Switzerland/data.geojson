@@ -140,15 +140,56 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [7.6436, 47.4512]
+                "coordinates": [7.8008, 47.4399]
             },
             "properties": {
                 "en": "Basle-Country",
                 "de": "Basel-Landschaft",
                 "fr": "Bâle-Campagne"
             }
+        },
+        
+         {
+            "id": "Basel-Stadt",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.6242, 47.5601]
+            },
+            "properties": {
+                "en": "Basle-City",
+                "de": "Basel-Stadt",
+                "fr": "Bâle-Ville"
+            }
+        },
+        
+         {
+            "id": "Glarus",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.6242, 47.5601]
+            },
+            "properties": {
+                "en": "Glarus",
+                "de": "Glarus",
+                "fr": "Glaris"
+            }
+        },
+        
+         {
+            "id": "Grisons",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.5135, 46.6743]
+            },
+            "properties": {
+                "en": "Grisons",
+                "de": "Graubünden",
+                "fr": "Grisons"
+            }
         }
-  
 
 
     ]
