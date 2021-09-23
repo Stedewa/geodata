@@ -1,83 +1,6 @@
 {
     "type": "FeatureCollection",
     "features": [
-        {
-            "id": "Vaud",
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [6.5500, 46.6167]
-            },
-            "properties": {
-                "en": "Vaud",
-                "fr": "Vaud"
-            }
-        },
-
-         {
-            "id": "Fribourg",
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [7.0834, 46.7182]
-            },
-            "properties": {
-                "en": "Fribourg",
-                "fr": "Fribourg"
-            }
-        },
-
-         {
-            "id": "Geneva",
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [6.1331, 46.2467]
-            },
-            "properties": {
-                "en": "Geneva",
-                "fr": "Canton de Genève"
-            }
-        },
-
-         {
-            "id": "Valais",
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [7.6246, 46.2576]
-            },
-            "properties": {
-                "en": "Valais",
-                "fr": "Valais"
-            }
-        },
-
-         {
-            "id": "Neuchatel",
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [6.7602, 47.0063]
-            },
-            "properties": {
-                "en": "Neuchâtel",
-                "fr": "Neuchâtel"
-            }
-        },
-
-         {
-            "id": "Jura",
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [7.1995, 47.3274]
-            },
-            "properties": {
-                "en": "Jura",
-                "fr": "Jura"
-            }
-        },
         
          {
             "id": "Bern",
@@ -89,7 +12,8 @@
             "properties": {
                 "en": "Bern",
                 "de": "Berne",
-                "fr": "Berne"
+                "fr": "Berne",
+                "it": "Neuchâtel"
             }
         },
         
@@ -103,21 +27,8 @@
             "properties": {
                 "en": "Aargau",
                 "de": "Aargau",
-                "fr": "Argovie"
-            }
-        },
-        
-         {
-            "id": "Appenzell Ausserrhoden",
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [9.2733, 47.3805]
-            },
-            "properties": {
-                "en": "Appenzell Ausserrhoden",
-                "de": "Appenzell Ausserrhoden",
-                "fr": "Appenzell Rhodes-Extérieures"
+                "fr": "Argovie",
+                "it": "Argovia"
             }
         },
         
@@ -131,7 +42,23 @@
             "properties": {
                 "en": "Appenzell Inner-Rhodes",
                 "de": "Appenzell Innerrhoden",
-                "fr": "Appenzell Rhodes-Intérieures"
+                "fr": "Appenzell Rhodes-Intérieures",
+                "it": "Appenzello Interno"
+            }
+        },
+        
+         {
+            "id": "Appenzell Ausserrhoden",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.2733, 47.3805]
+            },
+            "properties": {
+                "en": "Appenzell Ausserrhoden",
+                "de": "Appenzell Ausserrhoden",
+                "fr": "Appenzell Rhodes-Extérieures",
+                "it": "Appenzello Esterno"
             }
         },
         
@@ -145,7 +72,8 @@
             "properties": {
                 "en": "Basle-Country",
                 "de": "Basel-Landschaft",
-                "fr": "Bâle-Campagne"
+                "fr": "Bâle-Campagne",
+                "it": "Basilea Campagna"
             }
         },
         
@@ -159,7 +87,38 @@
             "properties": {
                 "en": "Basle-City",
                 "de": "Basel-Stadt",
-                "fr": "Bâle-Ville"
+                "fr": "Bâle-Ville",
+                "it": "Basilea Città"
+            }
+        },
+        
+        {
+            "id": "Fribourg",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.0834, 46.7182]
+            },
+            "properties": {
+                "en": "Fribourg",
+                "fr": "Fribourg",
+                "de": "Freiburg",
+                "it": "Friburgo"
+            }
+        },
+        
+        {
+            "id": "Geneva",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.1331, 46.2467]
+            },
+            "properties": {
+                "en": "Geneva",
+                "fr": "Canton de Genève",
+                "de": "Genf",
+                "it": "Ginevra"
             }
         },
         
@@ -173,7 +132,8 @@
             "properties": {
                 "en": "Glarus",
                 "de": "Glarus",
-                "fr": "Glaris"
+                "fr": "Glaris",
+                "it": "Glarona"
             }
         },
         
@@ -187,7 +147,249 @@
             "properties": {
                 "en": "Grisons",
                 "de": "Graubünden",
-                "fr": "Grisons"
+                "fr": "Grisons",
+                "it": "Grigioni"
+            }
+        },
+        
+        {
+            "id": "Jura",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.1995, 47.3274]
+            },
+            "properties": {
+                "en": "Jura",
+                "fr": "Jura",
+                "de": "Jura",
+                "it": "Giura"
+            }
+        },
+        
+         {
+            "id": "Lucerne",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.1752, 47.0317]
+            },
+            "properties": {
+                "en": "Lucerne",
+                "de": "Luzern",
+                "fr": "Lucerne",
+                "it": "Lucerna"
+            }
+        },
+
+         {
+            "id": "Neuchatel",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.7602, 47.0063]
+            },
+            "properties": {
+                "en": "Neuchâtel",
+                "fr": "Neuchâtel",
+                "de": "Neuenburg",
+                "it": "Neuchâtel"
+            }
+        },
+        
+         {
+            "id": "Nidwalden",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.4195, 46.9068]
+            },
+            "properties": {
+                "en": "Nidwald",
+                "de": "Nidwalden",
+                "fr": "Nidwald",
+                "it": "Nidvaldo"
+            }
+        },
+
+         {
+            "id": "Obwalden",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.2748, 46.8668]
+            },
+            "properties": {
+                "en": "Obwald",
+                "de": "Obwalden",
+                "fr": "Obwald",
+                "it": "Obvaldo"
+            }
+        },
+
+         {
+            "id": "Schaffhausen",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.6478, 47.7036]
+            },
+            "properties": {
+                "en": "Schaffouse",
+                "de": "Schaffhausen",
+                "fr": "Schaffouse",
+                "it": "Sciaffusa"
+            }
+        },
+
+         {
+            "id": "Schwyz",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.6967, 47.0542]
+            },
+            "properties": {
+                "en": "Schwyz",
+                "de": "Schwyz",
+                "fr": "Schwytz",
+                "it": "Svitto"
+            }
+        },
+
+         {
+            "id": "Solothurn",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.6841, 47.3263]
+            },
+            "properties": {
+                "en": "Soleure",
+                "de": "Solothurn",
+                "fr": "Soleure",
+                "it": "Soletta"
+            }
+        },
+
+         {
+            "id": "St. Gallen",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.3205, 47.1640]
+            },
+            "properties": {
+                "en": "St Gall",
+                "de": "St. Gallen",
+                "fr": "Saint-Gall",
+                "it": "San Gallo"
+            }
+        },
+
+         {
+            "id": "Thurgau",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.0857, 47.5357]
+            },
+            "properties": {
+                "en": "Thurgau",
+                "de": "Thurgau",
+                "fr": "Thurgovie",
+                "it": "Turgovia"
+            }
+        },
+
+         {
+            "id": "Ticino",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.7698, 46.2274]
+            },
+            "properties": {
+                "en": "Ticino",
+                "de": "Tessin",
+                "fr": "Tessin",
+                "it": "Ticino"
+            }
+        },
+
+         {
+            "id": "Uri",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.6778, 46.7606]
+            },
+            "properties": {
+                "en": "Uri",
+                "de": "Uri",
+                "fr": "Uri",
+                "it": "Uri"
+            }
+        },
+        
+        {
+            "id": "Valais",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.6246, 46.2576]
+            },
+            "properties": {
+                "en": "Valais",
+                "fr": "Valais",
+                "de": "Wallis",
+                "it": "Vallese"
+            }
+        },
+        
+        {
+            "id": "Vaud",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.5500, 46.6167]
+            },
+            "properties": {
+                "en": "Vaud",
+                "de": "Waadt",
+                "fr": "Vaud",
+                "it": "Vaud"
+            }
+        },
+
+
+         {
+            "id": "Zug",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.5518, 47.1623]
+            },
+            "properties": {
+                "en": "Zug",
+                "de": "Zug",
+                "fr": "Zoug",
+                "it": "Zugo"
+            }
+        },
+
+         {
+            "id": "Zurich",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.6799, 47.4279]
+            },
+            "properties": {
+                "en": "Zurich",
+                "de": "Zürich",
+                "fr": "Zurich",
+                "it": "Zurich"
             }
         }
 
